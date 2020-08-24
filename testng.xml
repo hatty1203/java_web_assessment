@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="web自动化测试-课堂派">
+    <listeners>
+        <listener class-name="com.lemon.listener.TestResultListener"/>
+        <listener class-name="com.lemon.listener.RetryListener"/>
+    </listeners>
+    <test name="课堂测试用例">
+        <classes>
+            <class name="com.lemon.testcases.ClassTest"/>
+        </classes>
+    </test>
+    <test name="作业测试用例">
+        <classes>
+            <class name="com.lemon.testcases.HomeworkTest"/>
+        </classes>
+    </test>
+    <test name="私信测试用例">
+        <classes>
+            <class name="com.lemon.testcases.SendMessageTest"/>
+        </classes>
+    </test>
+</suite>

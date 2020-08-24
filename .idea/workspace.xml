@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2d78304-5e11-4a07-a16f-76532c4aa0e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../sofware/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\sofware\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gITLeuEZSgd4PeUMeUWIdsi4UG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\scripts\java_web_assessment\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn io.qameta.allure:allure-maven:serve" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.ClassTest.AddClassFail">
+    <configuration name="ClassTest.AddClassFail" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java_web_assessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lemon.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lemon.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.lemon.testcases.ClassTest" />
+      <option name="METHOD_NAME" value="AddClassFail" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkTest.leaveComments" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java_web_assessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lemon.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lemon.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.lemon.testcases.HomeworkTest" />
+      <option name="METHOD_NAME" value="leaveComments" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkTest.updateHomeWorkSuccess" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java_web_assessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lemon.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lemon.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.lemon.testcases.HomeworkTest" />
+      <option name="METHOD_NAME" value="updateHomeWorkSuccess" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkTest.uploadHomeWorkSuccess" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java_web_assessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lemon.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lemon.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.lemon.testcases.HomeworkTest" />
+      <option name="METHOD_NAME" value="uploadHomeWorkSuccess" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendMessageTest.sendMessageSuccess" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java_web_assessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lemon.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lemon.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.lemon.testcases.SendMessageTest" />
+      <option name="METHOD_NAME" value="sendMessageSuccess" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ClassTest.AddClassFail" />
+        <item itemvalue="TestNG.SendMessageTest.sendMessageSuccess" />
+        <item itemvalue="TestNG.HomeworkTest.leaveComments" />
+        <item itemvalue="TestNG.HomeworkTest.uploadHomeWorkSuccess" />
+        <item itemvalue="TestNG.HomeworkTest.updateHomeWorkSuccess" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2d78304-5e11-4a07-a16f-76532c4aa0e5" name="Default Changelist" comment="" />
+      <created>1597801051103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597801051103</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1193" y="246" key="#com.intellij.ide.util.MemberChooser" timestamp="1598081958082">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1193" y="246" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598081958082" />
+    <state x="799" y="361" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598083884600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="799" y="361" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1598083884600" />
+    <state x="816" y="386" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1597912539225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="816" y="386" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1597912539225" />
+    <state x="1034" y="301" key="FileChooserDialogImpl" timestamp="1597801289405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1034" y="301" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597801289405" />
+    <state width="1472" height="184" key="GridCell.Tab.0.bottom" timestamp="1598087903860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1472" height="184" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598087903860" />
+    <state width="1472" height="184" key="GridCell.Tab.0.center" timestamp="1598087903860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1472" height="184" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598087903860" />
+    <state width="1472" height="184" key="GridCell.Tab.0.left" timestamp="1598087903860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1472" height="184" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598087903860" />
+    <state width="1472" height="184" key="GridCell.Tab.0.right" timestamp="1598087903860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1472" height="184" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598087903860" />
+    <state x="755" y="178" key="SettingsEditor" timestamp="1597801314416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="755" y="178" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597801314416" />
+    <state x="541" y="257" key="extract.method.dialog" timestamp="1598079472448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="541" y="257" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598079472448" />
+    <state x="650" y="226" width="672" height="677" key="run.anything.popup" timestamp="1598083718656">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="650" y="226" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598083718656" />
+  </component>
+</project>
